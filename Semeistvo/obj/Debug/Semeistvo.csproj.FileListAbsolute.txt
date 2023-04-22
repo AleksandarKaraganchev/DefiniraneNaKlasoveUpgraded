@@ -1,0 +1,12 @@
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\bin\Debug\Semeistvo.exe.config
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\bin\Debug\Semeistvo.exe
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\bin\Debug\Semeistvo.pdb
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\bin\Debug\DefiniraneNaKlasChovek.exe
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\bin\Debug\DefiniraneNaKlasChovek.pdb
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\bin\Debug\DefiniraneNaKlasChovek.exe.config
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\obj\Debug\Semeistvo.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\obj\Debug\Semeistvo.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\obj\Debug\Semeistvo.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\obj\Debug\Semeistvo.csproj.CopyComplete
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\obj\Debug\Semeistvo.exe
+D:\Програмиране\new tasks\DefiningClasses\Semeistvo\obj\Debug\Semeistvo.pdb

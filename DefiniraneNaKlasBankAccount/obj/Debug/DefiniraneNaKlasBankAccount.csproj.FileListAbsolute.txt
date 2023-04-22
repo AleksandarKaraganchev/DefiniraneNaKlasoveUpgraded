@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\bin\Debug\DefiniraneNaKlasBankAccount.exe.config
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\bin\Debug\DefiniraneNaKlasBankAccount.exe
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\bin\Debug\DefiniraneNaKlasBankAccount.pdb
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\obj\Debug\DefiniraneNaKlasBankAccount.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\obj\Debug\DefiniraneNaKlasBankAccount.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\obj\Debug\DefiniraneNaKlasBankAccount.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\obj\Debug\DefiniraneNaKlasBankAccount.exe
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasBankAccount\obj\Debug\DefiniraneNaKlasBankAccount.pdb

@@ -1,0 +1,8 @@
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\bin\Debug\ChovekutINegovitePari.exe.config
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\bin\Debug\ChovekutINegovitePari.exe
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\bin\Debug\ChovekutINegovitePari.pdb
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\obj\Debug\ChovekutINegovitePari.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\obj\Debug\ChovekutINegovitePari.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\obj\Debug\ChovekutINegovitePari.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\obj\Debug\ChovekutINegovitePari.exe
+D:\Програмиране\new tasks\DefiningClasses\ChovekutINegovitePari\obj\Debug\ChovekutINegovitePari.pdb

@@ -1,0 +1,12 @@
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasPerson.exe.config
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasPerson.exe
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasPerson.pdb
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasChovek.exe
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasChovek.pdb
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\bin\Debug\DefiniraneNaKlasChovek.exe.config
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.csproj.CopyComplete
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.exe
+D:\Програмиране\new tasks\DefiningClasses\DefiniraneNaKlasPerson\obj\Debug\DefiniraneNaKlasPerson.pdb

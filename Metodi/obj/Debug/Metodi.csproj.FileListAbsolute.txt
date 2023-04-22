@@ -1,0 +1,12 @@
+D:\Програмиране\new tasks\DefiningClasses\Metodi\bin\Debug\Metodi.exe.config
+D:\Програмиране\new tasks\DefiningClasses\Metodi\bin\Debug\Metodi.exe
+D:\Програмиране\new tasks\DefiningClasses\Metodi\bin\Debug\Metodi.pdb
+D:\Програмиране\new tasks\DefiningClasses\Metodi\obj\Debug\Metodi.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DefiningClasses\Metodi\obj\Debug\Metodi.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DefiningClasses\Metodi\obj\Debug\Metodi.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DefiningClasses\Metodi\obj\Debug\Metodi.exe
+D:\Програмиране\new tasks\DefiningClasses\Metodi\obj\Debug\Metodi.pdb
+D:\Програмиране\new tasks\DefiningClasses\Metodi\bin\Debug\DefiniraneNaKlasChovek.exe
+D:\Програмиране\new tasks\DefiningClasses\Metodi\bin\Debug\DefiniraneNaKlasChovek.pdb
+D:\Програмиране\new tasks\DefiningClasses\Metodi\bin\Debug\DefiniraneNaKlasChovek.exe.config
+D:\Програмиране\new tasks\DefiningClasses\Metodi\obj\Debug\Metodi.csproj.CopyComplete

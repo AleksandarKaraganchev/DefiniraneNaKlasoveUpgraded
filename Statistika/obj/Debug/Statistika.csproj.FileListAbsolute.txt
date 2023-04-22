@@ -1,0 +1,12 @@
+D:\Програмиране\new tasks\DefiningClasses\Statistika\bin\Debug\Statistika.exe.config
+D:\Програмиране\new tasks\DefiningClasses\Statistika\bin\Debug\Statistika.exe
+D:\Програмиране\new tasks\DefiningClasses\Statistika\bin\Debug\Statistika.pdb
+D:\Програмиране\new tasks\DefiningClasses\Statistika\bin\Debug\DefiniraneNaKlasChovek.exe
+D:\Програмиране\new tasks\DefiningClasses\Statistika\bin\Debug\DefiniraneNaKlasChovek.pdb
+D:\Програмиране\new tasks\DefiningClasses\Statistika\bin\Debug\DefiniraneNaKlasChovek.exe.config
+D:\Програмиране\new tasks\DefiningClasses\Statistika\obj\Debug\Statistika.csproj.AssemblyReference.cache
+D:\Програмиране\new tasks\DefiningClasses\Statistika\obj\Debug\Statistika.csproj.SuggestedBindingRedirects.cache
+D:\Програмиране\new tasks\DefiningClasses\Statistika\obj\Debug\Statistika.csproj.CoreCompileInputs.cache
+D:\Програмиране\new tasks\DefiningClasses\Statistika\obj\Debug\Statistika.csproj.CopyComplete
+D:\Програмиране\new tasks\DefiningClasses\Statistika\obj\Debug\Statistika.exe
+D:\Програмиране\new tasks\DefiningClasses\Statistika\obj\Debug\Statistika.pdb
