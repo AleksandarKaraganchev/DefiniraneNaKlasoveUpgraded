@@ -12,7 +12,7 @@ namespace DefiniraneNaKlasPerson
         static void Main(string[] args)
         {
             Person person = new Person();
-            Console.Write("Въведте брой хора: ");
+            Console.Write("Въведете брой хора: ");
             int n = int.Parse(Console.ReadLine());
             for (int i = 0; i < n; i++)
             {
